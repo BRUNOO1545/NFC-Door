@@ -1,9 +1,11 @@
 ># NFC Door (English)
- NFC door lock system using Arduino UNO and RC522 RFID. Versión en Español [Aqui](https://github.com/BRUNOO1545/NFC-Door#puerta-nfc-espa%C3%B1ol).
+ NFC door lock system using Arduino UNO and RC522 RFID.  
+ 
+ ***Versión en Español [Aqui](https://github.com/BRUNOO1545/NFC-Door#puerta-nfc-espa%C3%B1ol).***
 
 ### Requirements:
 
-- Arduino IDE >= 1.8.16
+- Arduino IDE >= **1.8.16**
 - Arduino UNO board
 - Arduino 9V Power Supply
 - RC522 RFID Module
@@ -16,15 +18,14 @@
 
 - RFID Cards
 - RFID Tags
-- Phone NFC
-
+- Phone NFC  
 
 ># Puerta NFC (Español)
 Sistema de bloqueo de puerta con Arduino UNO y RFID RC522.
 
 ### Requisitos:
 
-- Arduino IDE >= 1.8.16
+- Arduino IDE >= **1.8.16**
 - Placa Arduino UNO
 - Alimentación para Arduino de 9V
 - Modulo RFID RC522
