@@ -1,4 +1,4 @@
-# NFC-Door
+# NFC-Door (English)
 
 > Requirements:
 
@@ -7,7 +7,7 @@
 - RC522 RFID Module
 - 2 LED's (Green, Red)
 - SG90 Servomotor
-- (Opional) Jumpers
+- (Optional) Jumpers
 
 > What type of NFC works?
 
@@ -15,3 +15,19 @@
 - RFID Tags
 - Phone NFC
 
+# NFC-Door (Español)
+
+> Requisitos:
+
+- Placa Arduino UNO
+- Alimentación para Arduino de 9V
+- Modulo RFID RC522
+- 2 LED's (Verde, Rojo)
+- Servomotor SG90
+- (Opcional) Cables Dupont
+
+> ¿Que tipo de NFC's funcionan?
+
+- Tarjetas RFID
+- Llaveros RFID
+- NFC de un dispositivo móvil
