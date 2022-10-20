@@ -1,6 +1,8 @@
 # NFC-Door (English)
+NFC door lock system using Arduino UNO and RC522 RFID.
 
-> Requirements:
+
+> ## Requirements:
 
 - Arduino UNO board
 - Arduino 9V Power Supply
@@ -9,15 +11,17 @@
 - SG90 Servomotor
 - (Optional) Jumpers
 
-> What type of NFC works?
+> ## What type of NFC's works?
 
 - RFID Cards
 - RFID Tags
 - Phone NFC
 
-# NFC-Door (Español)
 
-> Requisitos:
+# NFC-Door (Español)
+Sistema de bloqueo de puerta con Arduino UNO y RFID RC522.
+
+> ## Requisitos:
 
 - Placa Arduino UNO
 - Alimentación para Arduino de 9V
@@ -26,7 +30,7 @@
 - Servomotor SG90
 - (Opcional) Cables Dupont
 
-> ¿Que tipo de NFC's funcionan?
+> ## ¿Que tipo de NFC's funcionan?
 
 - Tarjetas RFID
 - Llaveros RFID
