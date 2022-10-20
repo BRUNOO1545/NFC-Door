@@ -10,6 +10,7 @@
 - 2 LED's (Green, Red)
 - SG90 Servomotor
 - (Optional) Jumpers
+- (Optional) Protoboard
 
 ### What type of NFC's works?
 
@@ -30,6 +31,7 @@ Sistema de bloqueo de puerta con Arduino UNO y RFID RC522.
 - 2 LED's (Verde, Rojo)
 - Servomotor SG90
 - (Opcional) Cables Dupont
+- (Opcional) Protoboard
 
 ### ¿Que tipo de NFC's funcionan?
 
