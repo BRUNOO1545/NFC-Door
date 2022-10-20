@@ -3,7 +3,7 @@
 
 ### Requirements:
 
-- Arduino IDE 1.8.16
+- Arduino IDE >= 1.8.16
 - Arduino UNO board
 - Arduino 9V Power Supply
 - RC522 RFID Module
@@ -23,7 +23,7 @@ Sistema de bloqueo de puerta con Arduino UNO y RFID RC522.
 
 ### Requisitos:
 
-- Arduino IDE 1.8.16
+- Arduino IDE >= 1.8.16
 - Placa Arduino UNO
 - Alimentación para Arduino de 9V
 - Modulo RFID RC522
